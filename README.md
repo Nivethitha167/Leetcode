@@ -1,2 +1,2 @@
 # Leetcode
-This repository consists of my solutions for Leetcode long challlenges.
+This repository consists of my solutions for Leetcode long challenges.
